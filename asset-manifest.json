@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sruti-rani/TextUtils/static/css/main.f855e6bc.css",
+    "main.js": "/sruti-rani/TextUtils/static/js/main.704c5139.js",
+    "static/js/453.02b6ed6f.chunk.js": "/sruti-rani/TextUtils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/sruti-rani/TextUtils/index.html",
+    "main.f855e6bc.css.map": "/sruti-rani/TextUtils/static/css/main.f855e6bc.css.map",
+    "main.704c5139.js.map": "/sruti-rani/TextUtils/static/js/main.704c5139.js.map",
+    "453.02b6ed6f.chunk.js.map": "/sruti-rani/TextUtils/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.704c5139.js"
+  ]
+}
